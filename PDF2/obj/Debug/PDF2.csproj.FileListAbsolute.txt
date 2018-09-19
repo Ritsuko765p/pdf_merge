@@ -1,0 +1,23 @@
+C:\Users\Ritsu\AppData\Local\Temporary Projects\PDF2\bin\Debug\PDF2.exe.config
+C:\Users\Ritsu\AppData\Local\Temporary Projects\PDF2\bin\Debug\PDF2.exe
+C:\Users\Ritsu\AppData\Local\Temporary Projects\PDF2\bin\Debug\PDF2.pdb
+C:\Users\Ritsu\AppData\Local\Temporary Projects\PDF2\obj\Debug\PDF2.csprojAssemblyReference.cache
+C:\Users\Ritsu\AppData\Local\Temporary Projects\PDF2\obj\Debug\PDF2.Form1.resources
+C:\Users\Ritsu\AppData\Local\Temporary Projects\PDF2\obj\Debug\PDF2.Properties.Resources.resources
+C:\Users\Ritsu\AppData\Local\Temporary Projects\PDF2\obj\Debug\PDF2.csproj.GenerateResource.cache
+C:\Users\Ritsu\AppData\Local\Temporary Projects\PDF2\obj\Debug\PDF2.csproj.CoreCompileInputs.cache
+C:\Users\Ritsu\AppData\Local\Temporary Projects\PDF2\obj\Debug\PDF2.exe
+C:\Users\Ritsu\AppData\Local\Temporary Projects\PDF2\obj\Debug\PDF2.pdb
+C:\Users\Ritsu\source\repos\PDF2\PDF2\bin\Debug\PDF2.exe.config
+C:\Users\Ritsu\source\repos\PDF2\PDF2\bin\Debug\PDF2.exe
+C:\Users\Ritsu\source\repos\PDF2\PDF2\bin\Debug\PDF2.pdb
+C:\Users\Ritsu\source\repos\PDF2\PDF2\obj\Debug\PDF2.csprojAssemblyReference.cache
+C:\Users\Ritsu\source\repos\PDF2\PDF2\obj\Debug\PDF2.Form1.resources
+C:\Users\Ritsu\source\repos\PDF2\PDF2\obj\Debug\PDF2.Properties.Resources.resources
+C:\Users\Ritsu\source\repos\PDF2\PDF2\obj\Debug\PDF2.csproj.GenerateResource.cache
+C:\Users\Ritsu\source\repos\PDF2\PDF2\obj\Debug\PDF2.csproj.CoreCompileInputs.cache
+C:\Users\Ritsu\source\repos\PDF2\PDF2\obj\Debug\PDF2.exe
+C:\Users\Ritsu\source\repos\PDF2\PDF2\obj\Debug\PDF2.pdb
+C:\Users\Ritsu\source\repos\PDF2\PDF2\bin\Debug\itextsharp.dll
+C:\Users\Ritsu\source\repos\PDF2\PDF2\bin\Debug\itextsharp.xml
+C:\Users\Ritsu\source\repos\PDF2\PDF2\obj\Debug\PDF2.csproj.CopyComplete
