@@ -21,3 +21,16 @@ C:\Users\Ritsu\source\repos\PDF2\PDF2\obj\Debug\PDF2.pdb
 C:\Users\Ritsu\source\repos\PDF2\PDF2\bin\Debug\itextsharp.dll
 C:\Users\Ritsu\source\repos\PDF2\PDF2\bin\Debug\itextsharp.xml
 C:\Users\Ritsu\source\repos\PDF2\PDF2\obj\Debug\PDF2.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\bin\Debug\PDF2.exe.config
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\bin\Debug\PDF2.exe
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\bin\Debug\PDF2.pdb
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\bin\Debug\itextsharp.dll
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\bin\Debug\itextsharp.xml
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\obj\Debug\PDF2.csprojAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\obj\Debug\PDF2.Form1.resources
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\obj\Debug\PDF2.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\obj\Debug\PDF2.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\obj\Debug\PDF2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\obj\Debug\PDF2.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\obj\Debug\PDF2.exe
+C:\Users\USER\Documents\GitHub\pdf_merge\PDF2\obj\Debug\PDF2.pdb

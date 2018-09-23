@@ -53,6 +53,10 @@ namespace PDF2
         //「上へ」ボタン
         private void button1_Click(object sender, EventArgs e)
         {
+            if(dataGridView1.RowCount == 0)
+            {
+                return;
+            }
             int rowind = dataGridView1.SelectedCells[0].RowIndex;       //選択した行のIndex
             int rowcnt = dataGridView1.Rows.Count;                      //全行数
 
@@ -76,6 +80,10 @@ namespace PDF2
         //「下へ」ボタン
         private void button2_Click(object sender, EventArgs e)
         {
+            if (dataGridView1.RowCount == 0)
+            {
+                return;
+            }
             int rowind = dataGridView1.SelectedCells[0].RowIndex;   //選択した行のIndex
             int rowcnt = dataGridView1.Rows.Count;                  //全行数
 
@@ -91,6 +99,10 @@ namespace PDF2
         //「結合」ボタン
         private void button3_Click(object sender, EventArgs e)
         {
+            if (dataGridView1.RowCount == 0)
+            {
+                return;
+            }
             //結合するPDFファイルのパスのリストを作成
             List<string> path_list = new List<string>();
             foreach (object row in dataGridView1.Rows)
